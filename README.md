@@ -1,7 +1,6 @@
 # Naive Bayes Classification Project
 
-This project demonstrates how to build and evaluate a Naive Bayes classification model using Python.
-The notebook includes data preprocessing, visualization, model training, performance evaluation, and final results.
+This project demonstrates how to build and evaluate a Naive Bayes classification model using Python. The notebook includes data preprocessing, visualization, model training, performance evaluation, and final results. Using this machine learning model, we predict the likelihood of lung cancer based on the provided patient features.
 
 🔍 Project Overview
 
